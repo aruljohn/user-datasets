@@ -1,2 +1,8 @@
-# user-datasets
-Two datasets containing 1 million and 100 records respectively. There are 5 common records between them.
+# User Datasets
+
+This repo contains two datasets. 
+
+The first dataset has **1 million records**.
+The second dataset has **100 records**.
+
+There are 5 common records between the two datasets.
